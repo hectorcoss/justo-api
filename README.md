@@ -1,6 +1,6 @@
 # Justo API
 
-REST Api for processing a hitmen
+Super secret REST Api for managing assasins
 
 ---
 ## Requirements
